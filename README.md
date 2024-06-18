@@ -21,7 +21,7 @@ That should be all that was required in part 1.
 - numpy
 - ssl
 
-### How to use part1.py
+### How to use part2.py
 Similar to Part 1 you can run the code in your favorite python IDE and you should get 1 plot displayed just close it to continue until you have the terminal/console print out results of the SDGRegressor model to get MSE of both training and test sets and R2 both test set and training set.
 
 That should be all that was required in part 2.

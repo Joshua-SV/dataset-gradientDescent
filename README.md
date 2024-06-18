@@ -1,5 +1,31 @@
 # dataset-gradientDescent
 
+## Part 1: 
+### The Libararies it uses are as follows
+- Pandas
+- sklearn known as Scikit Learn
+- matplotlib
+- numpy
+- ssl
+
+### How to use part1.py
+Once you have all the necessary libraries installed, you can run the code in your favorite python IDE and you should get 4 plots displayed one after the other just close them to continue until you have the terminal/console print out results of the gradient descent to get MSE of both training and test sets and R2 for test set.
+
+That should be all that was required in part 1.
+
+## Part 2:
+### The Libararies it uses are as follows
+- Pandas
+- sklearn known as Scikit Learn
+- matplotlib
+- numpy
+- ssl
+
+### How to use part1.py
+Similar to Part 1 you can run the code in your favorite python IDE and you should get 1 plot displayed just close it to continue until you have the terminal/console print out results of the SDGRegressor model to get MSE of both training and test sets and R2 both test set and training set.
+
+That should be all that was required in part 2.
+
 ## About the Dataset Auto MPG
 1. Title: Auto-Mpg Data
 
